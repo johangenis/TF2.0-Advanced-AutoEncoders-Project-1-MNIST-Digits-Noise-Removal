@@ -1,4 +1,4 @@
-# TensorFlow 2.0 Advanced AutoEncoders: Project 1: MNIST Digits Noise Removal
+# TensorFlow 2.0 Advanced: AutoEncoders: Project 1: MNIST Digits Noise Removal
 
 ## PROBLEM STATEMENT
  - Auto encoders are a type of Artificial Neural Networks that are used to perform a task of data encoding (representation learning).
